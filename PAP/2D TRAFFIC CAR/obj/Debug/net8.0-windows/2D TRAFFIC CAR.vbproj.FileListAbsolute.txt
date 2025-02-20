@@ -1,0 +1,18 @@
+C:\Users\ESCOLA MIGUEL TORGA\source\repos\2D TRAFFIC CAR\2D TRAFFIC CAR\bin\Debug\net8.0-windows\2D TRAFFIC CAR.exe
+C:\Users\ESCOLA MIGUEL TORGA\source\repos\2D TRAFFIC CAR\2D TRAFFIC CAR\bin\Debug\net8.0-windows\2D TRAFFIC CAR.deps.json
+C:\Users\ESCOLA MIGUEL TORGA\source\repos\2D TRAFFIC CAR\2D TRAFFIC CAR\bin\Debug\net8.0-windows\2D TRAFFIC CAR.runtimeconfig.json
+C:\Users\ESCOLA MIGUEL TORGA\source\repos\2D TRAFFIC CAR\2D TRAFFIC CAR\bin\Debug\net8.0-windows\2D TRAFFIC CAR.dll
+C:\Users\ESCOLA MIGUEL TORGA\source\repos\2D TRAFFIC CAR\2D TRAFFIC CAR\bin\Debug\net8.0-windows\2D TRAFFIC CAR.pdb
+C:\Users\ESCOLA MIGUEL TORGA\source\repos\2D TRAFFIC CAR\2D TRAFFIC CAR\obj\Debug\net8.0-windows\2D TRAFFIC CAR.vbproj.GenerateResource.cache
+C:\Users\ESCOLA MIGUEL TORGA\source\repos\2D TRAFFIC CAR\2D TRAFFIC CAR\obj\Debug\net8.0-windows\2D TRAFFIC CAR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ESCOLA MIGUEL TORGA\source\repos\2D TRAFFIC CAR\2D TRAFFIC CAR\obj\Debug\net8.0-windows\2D TRAFFIC CAR.AssemblyInfoInputs.cache
+C:\Users\ESCOLA MIGUEL TORGA\source\repos\2D TRAFFIC CAR\2D TRAFFIC CAR\obj\Debug\net8.0-windows\2D TRAFFIC CAR.AssemblyInfo.vb
+C:\Users\ESCOLA MIGUEL TORGA\source\repos\2D TRAFFIC CAR\2D TRAFFIC CAR\obj\Debug\net8.0-windows\2D TRAFFIC CAR.vbproj.CoreCompileInputs.cache
+C:\Users\ESCOLA MIGUEL TORGA\source\repos\2D TRAFFIC CAR\2D TRAFFIC CAR\obj\Debug\net8.0-windows\2D TRAFFIC CAR.dll
+C:\Users\ESCOLA MIGUEL TORGA\source\repos\2D TRAFFIC CAR\2D TRAFFIC CAR\obj\Debug\net8.0-windows\refint\2D TRAFFIC CAR.dll
+C:\Users\ESCOLA MIGUEL TORGA\source\repos\2D TRAFFIC CAR\2D TRAFFIC CAR\obj\Debug\net8.0-windows\2D TRAFFIC CAR.pdb
+C:\Users\ESCOLA MIGUEL TORGA\source\repos\2D TRAFFIC CAR\2D TRAFFIC CAR\obj\Debug\net8.0-windows\2D TRAFFIC CAR.genruntimeconfig.cache
+C:\Users\ESCOLA MIGUEL TORGA\source\repos\2D TRAFFIC CAR\2D TRAFFIC CAR\obj\Debug\net8.0-windows\ref\2D TRAFFIC CAR.dll
+C:\Users\ESCOLA MIGUEL TORGA\source\repos\2D TRAFFIC CAR\2D TRAFFIC CAR\obj\Debug\net8.0-windows\_2D_TRAFFIC_CAR.Resources.resources
+C:\Users\ESCOLA MIGUEL TORGA\source\repos\2D TRAFFIC CAR\2D TRAFFIC CAR\obj\Debug\net8.0-windows\_2D_TRAFFIC_CAR.frm2DTrafficCar.resources
+C:\Users\ESCOLA MIGUEL TORGA\source\repos\2D TRAFFIC CAR\2D TRAFFIC CAR\obj\Debug\net8.0-windows\2D TRAFFIC CAR.sourcelink.json
